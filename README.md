@@ -1,6 +1,7 @@
 권민재
 ===
 a.k.a. beta, [PLUS](https://plus.or.kr)@[POSTECH](https://postech.ac.kr).
+Newbie hacker major in Web 🥴
 
 ## CTFs
 - CONFidence CTF 2020 Teaser `DDP` <sub>1st</sub>
@@ -16,11 +17,11 @@ a.k.a. beta, [PLUS](https://plus.or.kr)@[POSTECH](https://postech.ac.kr).
 and so on...
 
 ## Projects
-- POSTECH Archiving Center 💾 `on progress...`
-- POSTECH Blockchain Payment 💵 `on progress...`
-- POSTECH Broadcasting System Landing Page `on progress...`
-- POSTECH Broadcasting System Wiki `2020`
-- POSTECH-KAIST Science Festival Event Page 🎉 `2020`
+- 💾 POSTECH Archiving Center `on progress...`
+- 💵 POSTECH Blockchain Payment `on progress...`
+- 📽 POSTECH Broadcasting System Landing Page `on progress...`
+- 📽 POSTECH Broadcasting System Wiki `2020`
+- 🎉 POSTECH-KAIST Science Festival Event Page `2020`
 
 
 ## Security Audits
