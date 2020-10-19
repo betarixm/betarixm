@@ -1,5 +1,7 @@
 권민재
 ===
+[![CSE@POSTECH](https://img.shields.io/badge/Computer%20Science%20&%20Engineering-POSTECH-c80150)](https://cse.postech.ac.kr)
+[![PLUS@POSTECH](https://img.shields.io/badge/PLUS-POSTECH-000000)](https://plus.or.kr)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeta-lux&count_bg=%235200FF&title_bg=%23555555&icon=instacart.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 a.k.a. **beta**, [PLUS](https://plus.or.kr)@[POSTECH](https://postech.ac.kr).
