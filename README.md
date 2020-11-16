@@ -18,6 +18,7 @@ Newbie hacker major in Web 🥴
 - 🐭 2020 Codegate CTF Preliminary`MINUS` <sub>8th</sub>
 - 🦊 2020 UIUCTF `PLUS` <sub>6th</sub>
 - 🐨 2020 SECCON CTF `Disaster-level Hacker Laboratory` <sub>8th</sub>
+- 🐯 2020 Balsn CTF `PLUS` <sub>8th</sub>
 
 ### 🙀 Roughly Played
 - 🐹 2020 Definit CTF `2u1q` <sub>18th</sub>
