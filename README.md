@@ -27,6 +27,12 @@ Newbie hacker major in Web 🥴
 
 and so on...
 
+
+## Security Audits
+- 🎓 POSTECH (2019)
+and so on...
+
+
 ## Projects
 - 💾 POSTECH Archiving Center `on progress...`
 - 💵 POSTECH Blockchain Payment `on progress...`
@@ -35,9 +41,7 @@ and so on...
 - 🎉 POSTECH-KAIST Science Festival Event Page `2020`
 
 
-## Security Audits
-- 🎓 POSTECH (2019)
-and so on...
+
 <!--
 **beta-lux/beta-lux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
