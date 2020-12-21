@@ -29,7 +29,8 @@ and so on...
 
 
 ## Security Audits
-- 🎓 POSTECH (2019)
+- 🎓 POSTECH (2020)
+- 🛒 [Sellerhub](https://sellerhub.co.kr/) (2020)
 and so on...
 
 
