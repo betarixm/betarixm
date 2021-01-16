@@ -40,7 +40,7 @@ and so on...
 - 📽 POSTECH Broadcasting System Landing Page `on progress...`
 - 📽 POSTECH Broadcasting System Wiki `2020`
 - 🎉 POSTECH-KAIST Science Festival Event Page `2020`
-
+- POSTECH Hacking Camp Mentor `1st (Summer 2020) -  2nd (Winter 2020)`
 
 
 <!--
