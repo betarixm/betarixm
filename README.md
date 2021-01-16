@@ -36,7 +36,7 @@ and so on...
 
 ## Projects
 - 💾 POSTECH Archiving Center `on progress...`
-- 💵 POSTECH Blockchain Payment `on progress...`
+- 💵 POSTECH Blockchain Payment `2020 (demo)`
 - 📽 POSTECH Broadcasting System Landing Page `on progress...`
 - 📽 POSTECH Broadcasting System Wiki `2020`
 - 🎉 POSTECH-KAIST Science Festival Event Page `2020`
