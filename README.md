@@ -36,6 +36,7 @@ and so on...
 
 
 ## Projects
+- 📕 [study.plus.or.kr](https://github.com/PLUS-POSTECH/study.plus.or.kr) `contributor`
 - 💾 POSTECH Archiving Center `on progress...`
 - 💵 POSTECH Blockchain Payment `2020 (demo)`
 - 📽 POSTECH Broadcasting System Landing Page `on progress...`
