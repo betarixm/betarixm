@@ -22,6 +22,7 @@ Newbie hacker major in Web 🥴
 - 🐯 2020 Balsn CTF `PLUS` <sub>8th</sub>
 
 ### 🙀 Roughly Played
+- 🥑 2021 LINE CTF `K-Students` <sub>13th</sub>
 - 🐹 2020 Definit CTF `2u1q` <sub>18th</sub>
 - 🐰 0CTF/TCTF 2020 Quals `PLUS x GoN` <sub>20th</sub>
 - 🐥 N1CTF 2020 `PLUS` <sub>21th</sub>
