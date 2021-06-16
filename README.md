@@ -29,6 +29,8 @@ Newbie hacker major in Web 🥴
 
 and so on...
 
+## Internship
+- 🦆 Theori (2021)
 
 ## Security Audits
 - 🎓 POSTECH (2020)
