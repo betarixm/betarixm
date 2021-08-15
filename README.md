@@ -6,60 +6,36 @@
 
 Gwon Minjae, a.k.a. **beta**. [PLUS](https://plus.or.kr)@[POSTECH](https://postech.ac.kr).
 Newbie hacker major in Web 🥴
-<!--
-[![beta's github stats](https://github-readme-stats.vercel.app/api?username=beta-lux)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 ## CTFs
 - 0️⃣ 2021 zer0pts CTF `K-Students` <sub>2nd</sub>
 - 🐻 2020 DEF CON CTF QUALS `koreanbadass` <sub>7th</sub>
 - 🐼 2020 DEF CON CTF FINAL `koreanbadass` <sub>12th</sub>
-- 🐶 CONFidence CTF 2020 Teaser `DDP` <sub>1st</sub>
+- 🐶 2020 CONFidence CTF Teaser `DDP` <sub>1st</sub>
 - 🐱 2020 Plaid CTF `koreanbadass` <sub>4th</sub>
 - 🐭 2020 Codegate CTF Preliminary`MINUS` <sub>8th</sub>
 - 🦊 2020 UIUCTF `PLUS` <sub>6th</sub>
 - 🐨 2020 SECCON CTF `Disaster-level Hacker Laboratory` <sub>8th</sub>
 - 🐯 2020 Balsn CTF `PLUS` <sub>8th</sub>
-
-### 🙀 Roughly Played
 - 🥑 2021 LINE CTF `K-Students` <sub>13th</sub>
 - 🐹 2020 Definit CTF `2u1q` <sub>18th</sub>
-- 🐰 0CTF/TCTF 2020 Quals `PLUS x GoN` <sub>20th</sub>
-- 🐥 N1CTF 2020 `PLUS` <sub>21th</sub>
-
-and so on...
+- 🐰 2020 0CTF/TCTF Quals `PLUS x GoN` <sub>20th</sub>
+- 🐥 2020 N1CTF `PLUS` <sub>21th</sub>
+- 🦆 2019 HITCON CTF `LeaveCat-PLUS` <sub>14th<sub/>
+- 🦅 2019 TokyoWesterns CTF `LeaveCat-PLUS` <sub>17th<sub/>
 
 ## Internship
-- 🦆 Theori (2021)
+- 🦆 [Theori](https://theori.io/) (2021, Researcher)
 
 ## Security Audits
-- 🎓 POSTECH (2020)
+- 🎓 [POSTECH](https://www.postech.ac.kr/eng/) (2020)
 - 🛒 [Sellerhub](https://sellerhub.co.kr/) (2020)
-and so on...
-
 
 ## Projects
+- 🧑‍🏫 POSTECH Hacking Camp Mentor `1st (Summer 2020) -  2nd (Winter 2020)`
 - 📕 [study.plus.or.kr](https://github.com/PLUS-POSTECH/study.plus.or.kr) `contributor`
-- 💾 POSTECH Archiving Center `on progress...`
 - 💵 POSTECH Blockchain Payment `2020 (demo)`
 - 📽 POSTECH Broadcasting System Landing Page `on progress...`
 - 📽 POSTECH Broadcasting System Wiki `2020`
+- 💾 POSTECH Archiving Center `on progress...`
 - 🎉 POSTECH-KAIST Science Festival Event Page `2020`
-- POSTECH Hacking Camp Mentor `1st (Summer 2020) -  2nd (Winter 2020)`
-- BK21 POSTECH CSE Page `Maintainer` 
-
-
-<!--
-**beta-lux/beta-lux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
