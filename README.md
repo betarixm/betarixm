@@ -9,6 +9,7 @@ Newbie hacker major in Web 🥴
 
 ## CTFs
 - 0️⃣ 2021 zer0pts CTF `K-Students` <sub>2nd</sub>
+- 🦅 2021 POSTECH-KAIST SCIENCE WAR `PLUS` <sub>2nd</sub>
 - 🐻 2020 DEF CON CTF QUALS `koreanbadass` <sub>7th</sub>
 - 🐼 2020 DEF CON CTF FINAL `koreanbadass` <sub>12th</sub>
 - 🐶 2020 CONFidence CTF Teaser `DDP` <sub>1st</sub>
