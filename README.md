@@ -8,6 +8,7 @@ Gwon Minjae, a.k.a. **beta**. [PLUS](https://plus.or.kr)@[POSTECH](https://poste
 Newbie hacker major in Web 🥴
 
 ## CTFs
+- 🦋 2022 Codegate CTF Preliminary `PLUS` <sub>5th</sub>
 - 0️⃣ 2021 zer0pts CTF `K-Students` <sub>2nd</sub>
 - 🦅 2021 POSTECH-KAIST SCIENCE WAR `PLUS` <sub>2nd</sub>
 - 🐻 2020 DEF CON CTF QUALS `koreanbadass` <sub>7th</sub>
