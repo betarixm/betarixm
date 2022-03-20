@@ -35,7 +35,7 @@ Newbie hacker major in Web 🥴
 - 🛒 [Sellerhub](https://sellerhub.co.kr/) (2020)
 
 ## Projects
-- 🧑‍🏫 POSTECH Hacking Camp Mentor `1st (Summer 2020) -  2rd (Winter 2020)`
+- 🧑‍🏫 POSTECH Hacking Camp Mentor `1st (Summer 2020) -  3rd (Winter 2020)`
 - 📕 [study.plus.or.kr](https://github.com/PLUS-POSTECH/study.plus.or.kr) `contributor`
 - 💵 POSTECH Blockchain Payment `2020 (demo)`
 - 📽 POSTECH Broadcasting System Landing Page `on progress...`
