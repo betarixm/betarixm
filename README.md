@@ -4,13 +4,16 @@
 [![PLUS@POSTECH](https://img.shields.io/badge/PLUS-POSTECH-000000)](https://plus.or.kr)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbetarixm&count_bg=%235200FF&title_bg=%23555555&icon=instacart.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Gwon Minjae, a.k.a. **beta**. [PLUS](https://plus.or.kr)@[POSTECH](https://postech.ac.kr).
-Newbie hacker major in Web 🥴
+Gwon Minjae, a.k.a. **beta**. Newbie hacker major in Web 🥴
+
+- Software Engineer of [Theori](https://theori.io/), [ChainLight](https://chainlight.io/) and [Relic Protocol](https://relicprotocol.com/).
+- Member of [PLUS](https://plus.or.kr)@[POSTECH](https://postech.ac.kr).
 
 ## CTFs
 - ☠ 2023 DEF CON CTF `MMM` <sub>1st</sub>
 - ☠ 2023 DEF CON CTF Qualifier `MMM` <sub>2nd</sub>
 - 📱 2023 SSTF `The Duck` <sub>1st</sub>
+- 🦆 2023 HITCON CTF Quals `프로그램털모찌` <sub>6th</sub>
 - 🦋 2023 Codegate CTF Final `PLUS` <sub>3rd</sub>
 - 🦋 2023 Codegate CTF Preliminary `PLUS` <sub>3rd</sub>
 - 🦋 2022 Codegate CTF Final `PLUS` <sub>5th</sub>
