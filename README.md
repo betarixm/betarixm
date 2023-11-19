@@ -13,6 +13,7 @@ Gwon Minjae, a.k.a. **beta**. Newbie hacker major in Web 🥴
 - ☠ 2023 DEF CON CTF `MMM` <sub>1st</sub>
 - ☠ 2023 DEF CON CTF Qualifier `MMM` <sub>2nd</sub>
 - 📱 2023 SSTF `The Duck` <sub>1st</sub>
+- 🦆 2023 HITCON CTF `프로그램털모찌` <sub>4th</sub>
 - 🦆 2023 HITCON CTF Quals `프로그램털모찌` <sub>6th</sub>
 - 🦋 2023 Codegate CTF Final `PLUS` <sub>3rd</sub>
 - 🦋 2023 Codegate CTF Preliminary `PLUS` <sub>3rd</sub>
