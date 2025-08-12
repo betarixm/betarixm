@@ -10,12 +10,14 @@
 
 ## Experiences
 
+- 🛡️ [AIxCC Final Competition](https://team-atlanta.github.io/) (2025, Winner)
 - 🛡️ [AIxCC Semifinals Competition](https://team-atlanta.github.io/) (2024, Winner)
 - 🦆 [Theori](https://theori.io/) (2022-2023, Software Engineer)
 - 🦆 [Theori](https://theori.io/) (2021, Researcher)
 
 ## CTFs
 
+- ☠ 2024 DEF CON CTF `Cold Fusion` <sub>10th</sub>
 - ☠ 2024 DEF CON CTF `Cold Fusion` <sub>9th</sub>
 - ☠ 2023 DEF CON CTF `MMM` <sub>1st</sub>
 - ☠ 2023 DEF CON CTF Qualifier `MMM` <sub>2nd</sub>
