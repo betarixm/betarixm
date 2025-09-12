@@ -16,7 +16,7 @@
 
 ## CTFs
 
-- ☠ 2024 DEF CON CTF `Cold Fusion` <sub>10th</sub>
+- ☠ 2025 DEF CON CTF `Cold Fusion` <sub>10th</sub>
 - ☠ 2024 DEF CON CTF `Cold Fusion` <sub>9th</sub>
 - ☠ 2023 DEF CON CTF `MMM` <sub>1st</sub>
 - ☠ 2023 DEF CON CTF Qualifier `MMM` <sub>2nd</sub>
